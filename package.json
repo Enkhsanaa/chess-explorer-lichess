@@ -1,0 +1,18 @@
+{
+  "name": "chess-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Enkhsanaa Natsagdorj",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "pgn-parser": "git+https://github.com/Enkhsanaa/pgn-parser.git"
+  }
+}
